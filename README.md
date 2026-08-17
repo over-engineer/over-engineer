@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://over-engineer.com"><img height="44" alt="Website — over-engineer.com" title="over-engineer.com" src="assets/link-website.png"></a>
-  <a href="https://www.linkedin.com/in/overengineer"><img height="44" alt="LinkedIn — /in/overengineer" title="LinkedIn" src="assets/link-linkedin.png"></a>
-  <a href="https://profiles.wordpress.org/overengineer/"><img height="44" alt="WordPress.org — @overengineer" title="WordPress.org" src="assets/link-wordpress.png"></a>
-  <a href="mailto:dev@over-engineer.com"><img height="44" alt="Email — dev@over-engineer.com" title="Email" src="assets/link-email.png"></a>
+  <a href="https://over-engineer.com" target="_blank"><img height="44" alt="Website — over-engineer.com" title="over-engineer.com" src="assets/link-website.png"></a>
+  <a href="https://www.linkedin.com/in/overengineer" target="_blank"><img height="44" alt="LinkedIn — /in/overengineer" title="LinkedIn" src="assets/link-linkedin.png"></a>
+  <a href="https://profiles.wordpress.org/overengineer/" target="_blank"><img height="44" alt="WordPress.org — @overengineer" title="WordPress.org" src="assets/link-wordpress.png"></a>
+  <a href="mailto:dev@over-engineer.com" target="_blank"><img height="44" alt="Email — dev@over-engineer.com" title="Email" src="assets/link-email.png"></a>
 </p>
 
 ---
